@@ -1,10 +1,10 @@
 import React from "react";
-import CryptoPrice from "./CryptoPrice";
+import MarketBook from "./components/market/Page/MarketBook";
 
 function App() {
   return (
     <>
-      <CryptoPrice />
+      <MarketBook />
     </>
   );
 }
